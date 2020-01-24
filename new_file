@@ -1,2 +1,5 @@
-new file
-stop here
+#include<stdio.h>
+void main()
+{
+printf("hello world");
+}
